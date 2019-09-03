@@ -1,0 +1,15 @@
+numpy>=1.16.1
+tqdm
+jupyter
+matplotlib
+sympy
+scipy
+pyglet==1.2.4
+tf-nightly-2.0-preview==2.0.0.dev20190517
+tensorflow_hub
+tensorflow-datasets
+sklearn
+pandas
+seaborn
+h5py
+pyyaml
